@@ -13,5 +13,3 @@
 如有幸，嘤鸣而有友声，则更为一乐也。
 
 2015.7.10
-
-![image](https://github.com/leexuehan/leexuehan.github.com/blob/master/images/dropwizard.png)
